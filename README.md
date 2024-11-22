@@ -1,3 +1,4 @@
+#Intro-Algoritmos-e-Estrutura-de-Dados
 Nesta pasta será inserido todos os trabalhos feitos na disciplina de Algoritmos e Estrutura de Dados do
 curso de Desenvolvimento para Web e Dispositivos Moveis da Universidade IPLUSO, sedo que estes trabalhos seram feitos
 no Pycharm em Python.
